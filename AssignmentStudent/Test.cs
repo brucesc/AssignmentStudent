@@ -9,6 +9,14 @@ namespace AssignmentStudent
 {
     public class Test
     {
+        public Test(string testName, decimal score, int studentId)
+        {
+            TestName = testName;
+            Score = score;
+            StudentId = studentId;
+        }
+        public Test() { }
+
         public int Id { get; set; }
         [Required]
         [MaxLength(50)]

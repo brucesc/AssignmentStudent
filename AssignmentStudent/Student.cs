@@ -9,6 +9,8 @@ namespace AssignmentStudent
 {
     public class Student
     {
+        public Student() { }
+        
         public Student(string name, string major, string college, int gradyear, bool gradwithhonors)
         {
             Name = name;

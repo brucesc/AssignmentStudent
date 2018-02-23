@@ -1,0 +1,16 @@
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\bin\Debug\AssignmentStudent.exe.config
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\bin\Debug\AssignmentStudent.exe
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\bin\Debug\AssignmentStudent.pdb
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\bin\Debug\EntityFramework.dll
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\bin\Debug\EntityFramework.xml
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\bin\Debug\EntityFramework.SqlServer.xml
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.csprojResolveAssemblyReference.cache
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.csproj.CoreCompileInputs.cache
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.exe
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.pdb
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.Migrations.Initialization.resources
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.csproj.GenerateResource.Cache
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.Migrations.acutallyaddedstudentclass.resources
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.Migrations.madeAlumniDonercolumnallowedtobenull.resources
+C:\repos\EntityFramework\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.Migrations.addedTestclass.resources
